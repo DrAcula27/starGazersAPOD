@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+    />
+    <meta name="author" content="Danielle Andrews" />
+    <meta
+      name="description"
+      content="web app to show NASA's Astronomy Picture of the Day (APOD)"
+    />
+    <meta name="keywords" content="NASA, Astronomy, APOD" />
+
+    <title>NASAs A.P.O.D.</title>
+
+    <script
+      src="https://kit.fontawesome.com/940af2685d.js"
+      crossorigin="anonymous"
+    ></script>
+    <link rel="icon" type="image/png" href="./favicon.ico" />
+    <link rel="stylesheet" href="css/normalize.css" type="text/css" />
+    <link rel="stylesheet" href="css/style.css" type="text/css" />
+    <script defer type="text/javascript" src="js/main.js"></script>
+  </head>
+  <body>
+    <header>
+      <input
+        type="date"
+        id="datePicker"
+        min="1995-06-16"
+        max=""
+        value=""
+      />
+      <button type="button" name="button">Show APOD</button>
+    </header>
+    <main>
+      <img src="" alt="" />
+      <div class="video-container">
+        <iframe src="" frameborder="0"></iframe>
+      </div>
+      <p></p>
+    </main>
+    <footer>
+      <p>
+        ©
+        <script>
+          document.write(new Date().getFullYear());
+        </script>
+        |
+        <span id="footer-span">
+          Crafted with <i class="fa-solid fa-heart"></i> by </span
+        >DrAcula27 |
+      </p>
+      <a href="https://github.com/DrAcula27" target="_blank">
+        <i class="fa-brands fa-github"></i>
+      </a>
+      <p>|</p>
+      <a
+        href="https://www.linkedin.com/in/daniellerandrews/"
+        target="_blank"
+      >
+        <i class="fa-brands fa-linkedin"></i>
+      </a>
+    </footer>
+  </body>
+</html>
