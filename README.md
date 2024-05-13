@@ -85,7 +85,7 @@ This project can be improved by:
 
 ## Contact
 
-Danielle Andrews - [@DrAcula_codes](https://twitter.com/DrAcula_codes 'Twitter/X') - [daniellerandrews](https://www.linkedin.com/in/daniellerandrews 'LinkedIn') - danielle.andrews.dev@icloud.com
+Danielle Andrews - [@DrAcula_codes](https://twitter.com/DrAcula_codes 'Twitter/X') - [daniellerandrews](https://www.linkedin.com/in/daniellerandrews 'LinkedIn') - [danielle.andrews.dev@icloud.com](danielle.andrews.dev@icloud.com 'Email')
 
 Project Link: [https://github.com/DrAcula27/starGazersAPOD](https://github.com/DrAcula27/starGazersAPOD)
 
