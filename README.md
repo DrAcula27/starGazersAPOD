@@ -71,11 +71,15 @@ This project can be improved by:
 
 [ ] Refactoring the code to account for errors fetching data
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- LESSONS LEARNED -->
 
 ## Lessons Learned
 
 - **Data security.** When uploading code to GitHub, I realized I needed to make sure that important data, like API keys, need to be kept from being uploaded. Therefore, I used NASA's demo API key instead of mine so that anyone can use the hosted version of the app on GitHub Pages without worry.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 
